@@ -1,7 +1,7 @@
 #!/bin/bash
 
-. ~/Documents/Github/bash-scripts/ionic.sh
-. ~/Documents/Github/bash-scripts/github.sh
+. bash-scripts/ionic.sh
+. bash-scripts/github.sh
 
 github
 
